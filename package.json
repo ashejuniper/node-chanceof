@@ -1,0 +1,25 @@
+{
+  "name": "chanceof",
+  "version": "1.0.0-alpha",
+  "description": "Determine whether or not an event should occur based on a given chance.",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashelynne-juniper/node-chanceof.git"
+  },
+  "keywords": [
+    "chance",
+    "of",
+    "percent",
+    "percentage"
+  ],
+  "author": "Ashelynne Juniper",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ashelynne-juniper/node-chanceof/issues"
+  },
+  "homepage": "https://github.com/ashelynne-juniper/node-chanceof#readme"
+}
