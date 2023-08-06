@@ -1,9 +1,8 @@
 {
   "name": "chanceof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determine whether or not an event should occur based on a given chance.",
-  "type": "module",
-  "main": "src/index.mjs",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },

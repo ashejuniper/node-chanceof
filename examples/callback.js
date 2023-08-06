@@ -1,4 +1,4 @@
-import { chanceof } from "../src/index.mjs";
+const chanceof = require("../src/index.js");
 
 chanceof(
     0.5,

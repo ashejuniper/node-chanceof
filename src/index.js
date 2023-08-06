@@ -1,4 +1,4 @@
-export function chanceof(chance, cb) {
+function chanceof(chance, cb) {
     const result = Math.random();
     const hasOccured = result <= chance;
 
@@ -15,3 +15,5 @@ export function chanceof(chance, cb) {
         );
     }
 }
+
+module.exports = chanceof;
